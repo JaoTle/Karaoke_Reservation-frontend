@@ -1,16 +1,20 @@
-# karaoke_reservation
+# Karaoke_Reservation Project Front-end
+*Graduation Project*
 
-A new Flutter project.
+## Karaoke reservation application on mobile.
+Books karaoke room by choose branch , room and time.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Do All
+- Design UI
+- Create every page
+- GET POST DELETE UPDATE data with API
+- etc.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Developed using
+- Flutter
+- Dart
+- Android Studio
